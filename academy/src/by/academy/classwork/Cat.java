@@ -3,7 +3,7 @@ package by.academy.classwork;
 public class Cat {
 	int age;
 	String nickname;
-	double money=100;
+	double money=1000;
 	
 	public Cat() {	
 	}
