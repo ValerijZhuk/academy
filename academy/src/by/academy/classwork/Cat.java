@@ -22,17 +22,15 @@ public class Cat {
 	}
 	
 	public void eat() {
-		System.out.println("Кот есть");
+		System.out.println("РљРѕС‚ РµСЃС‚");
 	}
-	
 	
 	public void sleep() {
-		System.out.println("Кот спит");
+		System.out.println("РљРѕС‚ СЃРїРёС‚");
 	}
 	
-	
 	public void walk() {
-		System.out.println("Кот гуляет");
+		System.out.println("РљРѕС‚ РіСѓР»СЏРµС‚");
 	}
 	
 }
